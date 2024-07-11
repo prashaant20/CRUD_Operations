@@ -34,6 +34,16 @@ This Python script provides a simple CRUD (Create, Read, Update, Delete) interfa
 •	Performance Considerations: For larger datasets, consider alternative storage solutions or optimizations to reduce file I/O operations.  
 •	CSV File Structure: Ensure the CSV file structure matches the expected format (ID, Date, Product, Quantity, Price).  
 
+# Requirements
+Python Version:  
+•	This project requires Python 3.x or higher to be installed.  
+
+# Dependencies
+CSV Module:  
+•	The code utilizes Python's built-in csv module for reading from and writing to CSV files.  
+
+
+
 
 
 
